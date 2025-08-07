@@ -1,0 +1,15 @@
+body {
+font-family: Arial, sans-serif; padding: 20px;
+background: #e422e44d;
+}
+
+
+#formulario {
+margin-bottom: 20px;
+padding: 20px;
+}
+
+
+input { margin: 5px;
+padding: 5px;
+}

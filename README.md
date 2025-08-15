@@ -10,3 +10,4 @@ http://localhost:3000/
 
 ## Observaciones  
 Tener levantado la base de datos
+Y corriendo el servidor
